@@ -7,7 +7,7 @@ I link sono a scaricare a mano, o con un download manager come [JDownloader](htt
 Crea un preferito di qualsiasi pagina -> tasto destro -> modifica.
 Incolla nel campo URL il sorgente di `main.js` in questa repo.
 
-### Per usarlo
+### Per usarlo:
 Vai sulla pagina di una qualsiasi videolezione del corso che vuoi scaricare e premi sul preferito. Fatto!
 
 ###### Testato solo su chrome!
